@@ -62,11 +62,10 @@ button{
 
 
 #result{
-    color:#333;
     font-size: 20px;
+    color: #333;
 }
 
 #result span{
-    font-size: larger;
     color: red;
 }
